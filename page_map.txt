@@ -1,0 +1,10 @@
+index
+
+comic/[id]
+comic/[slug]
+chapters/
+chapter/[slug]
+rants/
+rant/[id]
+
+admin/*
