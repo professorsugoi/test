@@ -5,10 +5,7 @@ SimpleComic
 Intro
 -----
 
-SimpleComic is a fairly feature-light webcomic display script. I wrote
-it for a friend so she could start her comic up. I may improve it
-further. We will see.
-
+feature-light webcomic display script
 Features
 --------
 
